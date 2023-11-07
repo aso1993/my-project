@@ -22,8 +22,8 @@ this repo is created by Asmaa Asan-Hussein
 </body>
   <h1>Über mich</h1>
 
-  <img src="bild.jpg" alt="![624EB7A0-8691-4CD7-BABB-9C7C6F61C644](https://github.com/aso1993/my-project/assets/148383293/0d76e2a9-b092-46c0-8341-23d359646571)
-"
+  <img src="![624EB7A0-8691-4CD7-BABB-9C7C6F61C644](https://github.com/aso1993/my-project/assets/148383293/e85c0fe4-44c6-46ed-ad29-f0bc1057f5d1)
+" alt="mein bild"
 width="200">
 <p>Mein Name ist Asmaa Asan Hussein und ich bin studentin in der FH. ich habe Erfahrung im  Bereich Übersetzen und arbeite derzeit bei volkshilfe als Dolmetscherin</p>
 <p>In meiner Freizeit interessiere ich mich für Bücher lesen und kerzen herstellen</p>
